@@ -1,0 +1,14 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  visibility: hidden;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
